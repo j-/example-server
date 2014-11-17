@@ -18,3 +18,7 @@ $ npm install
 ```sh
 $ node .
 ```
+
+## License
+
+[MIT license](LICENSE).
